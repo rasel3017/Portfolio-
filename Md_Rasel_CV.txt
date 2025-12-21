@@ -1,0 +1,116 @@
+CURRICULUM VITAE
+================
+
+Name: Md. Rasel
+Email: md.rasel@example.com
+Phone: 01889*****7
+Location: Bakolia,Chattogram
+GitHub: https://github.com/your-username
+Portfolio: https://rasel3017.github.io/Portfolio-/
+
+--------------------------------------------------
+
+PROFESSIONAL SUMMARY
+--------------------
+Motivated and detail-oriented Full Stack Developer with a strong foundation in
+modern web technologies. Passionate about building responsive, user-friendly,
+and scalable web applications. Experienced in both frontend and backend
+development with a focus on clean code and continuous learning.
+
+--------------------------------------------------
+
+TECHNICAL SKILLS
+----------------
+Frontend:
+- HTML5, CSS3, JavaScript (ES6+)
+- Responsive Design, Flexbox, Grid
+- React, Vue.js (Basics)
+
+Backend:
+- Node.js, Express.js
+- RESTful APIs
+- PHP, Python (Basics)
+
+Database:
+- MongoDB
+- MySQL
+- PostgreSQL
+
+Tools & Technologies:
+- Git & GitHub
+- Docker (Basics)
+- AWS (Basics)
+- VS Code
+- Agile Methodologies
+
+--------------------------------------------------
+
+EDUCATION
+---------
+Bachelor of Science in Computer Science  
+International Islamic University Chittagong | 2024 – 2028  
+Want to Specialized in Web applications and Artificial Intelligence. 
+Current  CGPA: 3.6/4.0 
+
+Higer School certificate 
+CDA Public School and College| 2020 – 2021 
+Focused on web technologies and database systems. 
+Passed with GPA: 4.67/5 
+
+--------------------------------------------------
+
+PROJECTS
+--------
+1. Portfolio Website
+   - Personal responsive portfolio hosted on GitHub Pages
+   - Features: Dark Mode, CV Download, Contact Form with Google Sheets
+   - Technologies: HTML, CSS, JavaScript
+
+2. E-Commerce Platform
+   - Full-featured online shopping system
+   - Technologies: React, Node.js, MongoDB
+
+3. Task Management Application
+   - Real-time task collaboration app
+   - Technologies: Vue.js, Firebase
+
+4. Weather Dashboard
+   - Displays real-time weather data using APIs
+   - Technologies: JavaScript, REST APIs
+
+--------------------------------------------------
+
+ACHIEVEMENTS & CERTIFICATIONS
+------------------------------
+- Best Developer Award – 2023
+- AWS Certified Developer – Associate
+- Winner, National Tech Hackathon – 2022
+- 500+ Contributions on GitHub
+- Tech Speaker at Developer Meetups
+
+--------------------------------------------------
+
+PUBLICATIONS
+------------
+- “Modern Web Development: Best Practices for 2023” – Tech Innovation Journal
+- “Building Scalable Microservices with Node.js” – Developer Weekly Magazine
+
+--------------------------------------------------
+
+HOBBIES & INTERESTS
+------------------
+- Photography
+- Reading Technology & Self-Improvement Books
+- Gaming (Strategy & Simulation)
+- DIY Electronics & IoT
+- Traveling
+
+--------------------------------------------------
+
+CONTACT
+-------
+Email: md.rasel@example.com
+Phone: 01889*****7
+
+--------------------------------------------------
+Last Updated: 2025

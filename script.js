@@ -100,6 +100,39 @@ function updateActiveNav() {
     });
 }
 
+// ==================== CV DOWNLOAD FUNCTIONALITY ====================
+const downloadCVBtn = document.getElementById('downloadCV');
+
+downloadCVBtn.addEventListener('click', async () => {
+    try {
+        const response = await fetch('Md_Rasel_CV.txt');
+
+        if (!response.ok) {
+            throw new Error('File not found');
+        }
+
+        const cvText = await response.text();
+
+        const blob = new Blob([cvText], { type: 'text/plain' });
+        const url = URL.createObjectURL(blob);
+
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'Md_Rasel_CV.txt';
+        document.body.appendChild(a);
+        a.click();
+
+        URL.revokeObjectURL(url);
+        document.body.removeChild(a);
+
+        // ✅ Success message
+        alert('✅ CV downloaded successfully!');
+    } catch (error) {
+        alert('❌ Failed to download CV');
+        console.error(error);
+    }
+});
+
 // ==================== SCROLL ANIMATIONS ====================
 // Add fade-in animation for elements as they come into view
 const observerOptions = {
