@@ -605,6 +605,96 @@ body.dark-mode .navbar.scrolled {
     font-weight: 600;
 }
 
+/* Achievements Grid */
+.achievements-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.achievement-card {
+    padding: 2rem;
+    background: var(--bg-secondary);
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.achievement-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--primary-color);
+}
+
+.achievement-icon {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto 1.5rem;
+    color: var(--primary-color);
+}
+
+.achievement-icon svg {
+    width: 100%;
+    height: 100%;
+}
+
+.achievement-card h3 {
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+    color: var(--text-color);
+}
+
+.achievement-card p {
+    color: var(--text-light);
+    line-height: 1.6;
+}
+
+/* Hobbies Grid */
+.hobbies-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.hobby-card {
+    padding: 2rem;
+    background: var(--bg-color);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.hobby-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--primary-color);
+}
+
+.hobby-icon {
+    width: 50px;
+    height: 50px;
+    margin: 0 auto 1rem;
+    color: var(--primary-color);
+}
+
+.hobby-icon svg {
+    width: 100%;
+    height: 100%;
+}
+
+.hobby-card h3 {
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+    color: var(--text-color);
+}
+
+.hobby-card p {
+    color: var(--text-light);
+    line-height: 1.6;
+}
+
 /* Responsive Design */
 
 /* Updating responsive for hero section mobile view*/
